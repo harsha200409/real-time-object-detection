@@ -40,7 +40,7 @@ P. Harsha Vardhan
 
 ### Person Detection
 
-![Person Detection](Screenshot/2026-06-15 200819.pngg)
+![Person Detection](screenshots/person_detection.png)
 
 ### Book Detection
 
