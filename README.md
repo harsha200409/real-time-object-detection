@@ -44,4 +44,4 @@ P. Harsha Vardhan
 
 ### Book Detection
 
-![Book Detection](screenshots/Book_detection.png)
+![Book Detection](screenshots/book_detection.png)
