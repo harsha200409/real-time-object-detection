@@ -33,3 +33,15 @@ This project performs real-time object detection using a webcam feed. YOLOv8 is 
 ## Author
 
 P. Harsha Vardhan
+
+
+
+## Project Screenshots
+
+### Person Detection
+
+![Person Detection](screenshots/person_detection.png)
+
+### Book Detection
+
+![Book Detection](screenshots/Book_detection.png)
